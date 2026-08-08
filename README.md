@@ -1,5 +1,9 @@
 # Zone Pusher — 2023 USDA Plant Hardiness Zone Map
 
+## Download
+
+[**Download the editable SVG**](ZonePusher_USDA_BaseLayer_PersonalizableTitle.svg)
+
 ![2023 USDA Plant Hardiness Zone Map preview](ZonePusher_USDA_BaseLayer_PersonalizableTitle_PROOF.png)
 
 A plotting-ready, editable Lower 48 version of the **2023 USDA Plant Hardiness Zone Map**.
