@@ -2,7 +2,7 @@
 
 ## Download
 
-[**Download the editable SVG**](ZonePusher_USDA_BaseLayer_PersonalizableTitle.svg)
+[**⬇ Download the editable SVG (38.7 MB)**](https://github.com/PalmGoblin/zone-pusher-usda-2023-map/raw/refs/heads/main/ZonePusher_USDA_BaseLayer_PersonalizableTitle.svg)
 
 ![2023 USDA Plant Hardiness Zone Map preview](ZonePusher_USDA_BaseLayer_PersonalizableTitle_PROOF.png)
 
